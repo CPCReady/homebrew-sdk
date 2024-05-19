@@ -1,4 +1,4 @@
-class CpcReady < Formula
+class Sdk < Formula
     desc "My CPCReady software"
     homepage "https://github.com/CPCReady/sdk"
     version "1.0.0"
